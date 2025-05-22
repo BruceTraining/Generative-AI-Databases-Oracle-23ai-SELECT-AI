@@ -1,0 +1,259 @@
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  1,
+  'McDonald''s',
+  4.3,
+  1250,
+  'Y',
+  '123 Golden Arches Way',
+  'Chicago',
+  'IL',
+  '60601',
+  'USA',
+  '(555) 000-1001'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  2,
+  'Starbucks',
+  4.5,
+  2300,
+  'Y',
+  '400 Coffee Ln',
+  'Seattle',
+  'WA',
+  '98101',
+  'USA',
+  '(555) 000-2002'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  3,
+  'Subway',
+  4.0,
+  900,
+  'N',
+  '210 Fresh Ave',
+  'Bridgeport',
+  'CT',
+  '06604',
+  'USA',
+  '(555) 000-3003'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  4,
+  'Pizza Hut',
+  3.9,
+  750,
+  'N',
+  '789 Pepperoni Rd',
+  'Dallas',
+  'TX',
+  '75201',
+  'USA',
+  '(555) 000-4004'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  5,
+  'KFC',
+  4.2,
+  1100,
+  'Y',
+  '321 Colonel Dr',
+  'Louisville',
+  'KY',
+  '40202',
+  'USA',
+  '(555) 000-5005'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  6,
+  'Burger King',
+  4.1,
+  980,
+  'N',
+  '101 Whopper Way',
+  'Miami',
+  'FL',
+  '33101',
+  'USA',
+  '(555) 000-6006'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  7,
+  'Taco Bell',
+  4.0,
+  820,
+  'N',
+  '456 Taco Lane',
+  'Irvine',
+  'CA',
+  '92602',
+  'USA',
+  '(555) 000-7007'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  8,
+  'Chipotle',
+  4.6,
+  1500,
+  'Y',
+  '555 Burrito Blvd',
+  'Denver',
+  'CO',
+  '80014',
+  'USA',
+  '(555) 000-8008'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  9,
+  'Panda Express',
+  4.2,
+  650,
+  'N',
+  '777 Orange Chicken St',
+  'Los Angeles',
+  'CA',
+  '90001',
+  'USA',
+  '(555) 000-9009'
+);
+
+INSERT INTO RESTAURANTS (
+  RESTAURANT_ID,
+  NAME,
+  AVERAGE_RATING,
+  TOTAL_REVIEWS,
+  IS_UBER_ONE_ELIGIBLE,
+  ADDRESS_LINE1,
+  CITY,
+  STATE,
+  ZIP_CODE,
+  COUNTRY,
+  PHONE_NUMBER
+) VALUES (
+  10,
+  'Domino''s Pizza',
+  3.8,
+  1050,
+  'N',
+  '999 Slice Cir',
+  'Ann Arbor',
+  'MI',
+  '48105',
+  'USA',
+  '(555) 000-1010'
+);
