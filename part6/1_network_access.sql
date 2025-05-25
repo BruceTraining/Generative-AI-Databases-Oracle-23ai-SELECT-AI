@@ -8,5 +8,3 @@ BEGIN
                         principal_type   => xs_acl.ptype_db));
 END;
 
-GRANT EXECUTE ON DBMS_CLOUD TO user_oreilly_may27;
-GRANT EXECUTE ON DBMS_CLOUD_AI TO user_oreilly_may27;
